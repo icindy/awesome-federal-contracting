@@ -109,7 +109,6 @@ Comparisons:
 ## Related Lists
 
 - [Awesome Procurement Data](https://github.com/makegov/awesome-procurement-data) - Federal procurement APIs, client libraries, and datasets.
-- [Awesome Government Contracting](https://github.com/puremetall/awesome-government-contracting) - Federal, state, and local contracting resources.
 - [Awesome GovTech](https://github.com/awesomelistsio/awesome-govtech) - Digital government platforms and tools.
 - [Awesome](https://github.com/sindresorhus/awesome) - The list of awesome lists.
 
