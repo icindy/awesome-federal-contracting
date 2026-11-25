@@ -71,6 +71,8 @@ Comparisons:
 - [SAM.gov alerts vs. third-party tools (OppBeacon)](https://oppbeacon.com/compare/sam-gov-alerts) - What SAM.gov's built-in notifications do and do not cover.
 - [GovTribe alternatives (OppBeacon)](https://oppbeacon.com/compare/govtribe-alternative) - Vendor-written comparison; read with that in mind.
 - [HigherGov alternatives (OppBeacon)](https://oppbeacon.com/compare/highergov-alternative) - Vendor-written comparison; read with that in mind.
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) - New US federal contract and grant notices from SAM.gov and Grants.gov in one feed (Apify Actor, API + MCP, free tier).
+- [Grants.gov Scraper](https://apify.com/publicrecords/grants-gov-scraper) - Open US federal grants: agency, deadline, eligibility and source link (Apify Actor, API + MCP, free tier).
 
 ## Pricing and Past Performance Research
 
@@ -78,6 +80,7 @@ Comparisons:
 - [GSA CALC+](https://buy.gsa.gov/pricing/) - Labor category rates from GSA schedule contracts, useful for pricing services.
 - [CPARS](https://www.cpars.gov/) - Contractor performance assessments (contractors can view their own).
 - [SBA Small Business Procurement Scorecard](https://www.sba.gov/document/support-small-business-procurement-scorecard-overview) - Agency small business goaling results.
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP, free tier).
 
 ## Regulations
 
