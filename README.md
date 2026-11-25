@@ -38,6 +38,7 @@ Federal contracting info is spread across dozens of .gov sites and vendor tools.
 - [SBA size standards](https://www.sba.gov/federal-contracting/contracting-guide/size-standards) - Check whether you qualify as small for a NAICS code.
 - [MySBA Certifications](https://certifications.sba.gov/) - Apply for 8(a), HUBZone, WOSB/EDWOSB, and VOSB/SDVOSB certifications.
 - [SBA Dynamic Small Business Search](https://dsbs.sba.gov/) - Government buyers search this profile database; keep yours complete.
+- [Supplier check (Programmable Watch)](https://programmable.watch/check) - Free, no account: a company's SAM.gov registration status and expiry, linked exclusions, and possible Consolidated Screening List matches.
 
 ## Small Business Programs and Set-Asides
 
